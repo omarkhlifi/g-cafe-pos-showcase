@@ -54,13 +54,13 @@ The system enables staff to process customer orders, manage products and categor
 
 ## 📸 Screenshots
 
-### Dashboard
+### Login
 
-![Dashboard](screenshots/dashboard.png)
+![Login](screenshots/login.png)
 
 ---
 
-### POS Screen
+### Point of Sale
 
 ![POS](screenshots/pos.png)
 
@@ -72,29 +72,45 @@ The system enables staff to process customer orders, manage products and categor
 
 ---
 
-### Payment
+### Payment Processing
 
 ![Payment](screenshots/payment.png)
 
 ---
 
+### Receipt Generation
+
+![Receipt](screenshots/receipt.png)
+
+---
+
 ### Order History
 
-![History](screenshots/order-history.png)
+![Order History](screenshots/order-history.png)
+
+---
+
+### Sales Summary
+
+![Summary](screenshots/summary.png)
+
+---
+
+### End-of-Day Settlement
+
+![Settlement](screenshots/settlement.png)
 
 ---
 
 ### Admin Dashboard
 
-![Admin](screenshots/admin.png)
+![Admin Dashboard](screenshots/admin.png)
 
 ---
 
-### Summary
+### Project Architecture
 
-![Summary](screenshots/summary.png)
-
----
+![Architecture](screenshots/architecture.png)
 
 ## 👨‍💻 My Contributions
 

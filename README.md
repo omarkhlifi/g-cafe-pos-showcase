@@ -80,7 +80,7 @@ The system enables staff to process customer orders, manage products and categor
 
 ### Order History
 
-![History](screenshots/history.png)
+![History](screenshots/order-history.png)
 
 ---
 
@@ -90,9 +90,9 @@ The system enables staff to process customer orders, manage products and categor
 
 ---
 
-### Mobile View
+### Summary
 
-![Mobile](screenshots/mobile.png)
+![Summary](screenshots/summary.png)
 
 ---
 
